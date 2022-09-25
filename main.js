@@ -15,11 +15,6 @@ doc.ready(function() {
   if ($(window).scrollTop() < 200) {
     $(".navbar-nav").addClass("navbar-nav-bg");
   }
-
-  $(".item-content-1").owlCarousel({
-    items:1,
-    rewind:true,
-    autoplay:true,
     
 
   });
