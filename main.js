@@ -14,12 +14,11 @@ doc.ready(function() {
 
   if ($(window).scrollTop() < 200) {
     $(".navbar-nav").addClass("navbar-nav-bg");
-  }
     
-
   });
 
-
+  
+});
 
 
 
