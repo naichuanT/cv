@@ -21,7 +21,7 @@ doc.ready(function() {
 
 
 
-  });
+
 
 var form = document.getElementById("my-form");
 
